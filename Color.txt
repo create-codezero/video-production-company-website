@@ -1,0 +1,6 @@
+Black : #000000
+White : #ffffff
+Orange : #ffa200
+Little Dark Orange : #ff8800
+Extra Dark Orange : #db7500
+Yellow : #ffe600
